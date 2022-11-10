@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1668043488338,551,HTTP Request,200,OK,Regiter Reqres 1-1,text,true,,695,230,1,1,https://reqres.in/api/register,551,0,66
