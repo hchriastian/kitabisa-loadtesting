@@ -24,4 +24,3 @@ Caranya klik tools -> generate html report, lalu tampil beberapa settingan, resu
  
  
  
-![image](https://user-images.githubusercontent.com/55739504/200976444-897cdb4f-c0ad-4252-8c79-668be43cafc5.png)
